@@ -12,11 +12,11 @@ Example: if X = 110.20, you need 2 banknotes of 50, one of 10, one coin of 0.2
 ## How to run it
 Run in your terminal:
 ```bash
-    php challenge.php [AMOUNT]
+php challenge.php [AMOUNT]
 ```
 where `[AMOUNT]` is a number. 
 
 ### Example
 ```bash
-    php challenge.php 110.2
+php challenge.php 110.2
 ```
